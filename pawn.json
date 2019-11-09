@@ -1,0 +1,9 @@
+{
+	"user": "infin1tyy",
+	"repo": "FloodControl",
+	"entry": "test.pwn",
+	"output": "test.amx",
+	"dependencies": [
+		"sampctl/samp-stdlib"
+	]
+}
